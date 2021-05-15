@@ -173,7 +173,8 @@ button:hover {
 }
 
 .copyright {
-  top: 100;
+  bottom: 5;
+  color: #fff;
   align-content: center;
   justify-content: center;
 }
