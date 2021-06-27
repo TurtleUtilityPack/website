@@ -363,15 +363,6 @@ input:-webkit-autofill:focus {
     margin-bottom: -158px;
 }
 
-.feature-area {
-    color: #ffffff;
-    background-color: #3c9786;
-    background-position: bottom -120px center;
-    background-repeat: no-repeat;
-    background-size: auto 94%;
-    margin-bottom: 142px;
-}
-
 .questions-area {
     background-color: #f5f6ff;
 }
