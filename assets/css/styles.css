@@ -350,14 +350,14 @@ input:-webkit-autofill:focus {
     transform: translateY(-4px);
 }
 
-.home-area {
+.home {
     width: 100%;
     padding-top: 26vh;
     color: #ffffff;
     margin-bottom: 100px;
 }
 
-.home-area .mobile-image {
+.home .mobile-image {
     margin-right: 0;
     margin-left: 0;
     margin-bottom: -158px;
