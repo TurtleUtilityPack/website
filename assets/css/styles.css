@@ -218,15 +218,6 @@ input:-webkit-autofill:focus {
     z-index: -1;
 }
 
-.dark-color {
-    color: #434345
-}
-
-.blue-color {
-    color: #3c9786
-;
-}
-
 .white-color {
     color: #ffffff !important;
 }
