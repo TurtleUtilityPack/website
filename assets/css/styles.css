@@ -226,7 +226,7 @@ input:-webkit-autofill:focus {
     background-color: #f5f6ff;
 }
 
-.mainmenu-area {
+.headermenu {
     position: absolute;
     left: 0;
     top: 0;
@@ -239,7 +239,7 @@ input:-webkit-autofill:focus {
     transition: 0.3s;
 }
 
-.mainmenu-area:before {
+.headermenu:before {
     content: '';
     position: absolute;
     left: 0;
@@ -259,22 +259,22 @@ input:-webkit-autofill:focus {
     transition: 0.3s;
 }
 
-.mainmenu-area.affix {
+.headermenu.affix {
     position: fixed;
     top: 0;
 }
 
-.mainmenu-area.affix:before {
+.headermenu.affix:before {
     opacity: 1;
 }
 
-.mainmenu-area .right-button {
+.headermenu .right-button {
     position: absolute;
     right: 15px;
     top: 12px;
 }
 
-.mainmenu-area .right-button a {
+.headermenu .right-button a {
     color: #ffffff;
     padding: 10px 40px;
     border-radius: 50px;
@@ -286,25 +286,25 @@ input:-webkit-autofill:focus {
     font-size: 14px;
 }
 
-.mainmenu-area .right-button a:hover {
+.headermenu .right-button a:hover {
     background-color: rgba(255, 255, 255, 1);
     color: #3c9786
 ;
 }
 
-.mainmenu-area ul.mainmenu {
+.headermenu ul.mainmenu {
     text-align: center;
     float: none;
     display: block;
 }
 
-.mainmenu-area ul.mainmenu li {
+.headermenu ul.mainmenu li {
     float: none;
     display: inline-block;
     text-align: center;
 }
 
-.mainmenu-area ul.nav.navbar-nav li a {
+.headermenu ul.nav.navbar-nav li a {
     color: #ffffff;
     padding: 10px 2px;
     text-transform: capitalize;
@@ -314,17 +314,17 @@ input:-webkit-autofill:focus {
     margin: 0 15px;
 }
 
-.mainmenu-area ul.nav.navbar-nav li a:hover,
-.mainmenu-area ul.nav.navbar-nav li.active a {
+.headermenu ul.nav.navbar-nav li a:hover,
+.headermenu ul.nav.navbar-nav li.active a {
     border-bottom-color: #ffffff;
 }
 
-.mainmenu-area .navbar-brand {
+.headermenu .navbar-brand {
     height: auto;
     padding: 0 15px;
 }
 
-.mainmenu-area .navbar-brand img {
+.headermenu .navbar-brand img {
     height: 40px;
 }
 
